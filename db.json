@@ -200,5 +200,8 @@
       "favorite": false,
       "blocked": false
     }
-  ]
+  ],
+  "profile": {
+    "name": "albert"
+  }
 }
