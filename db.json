@@ -1,14 +1,204 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    { 
+      "id": 1, 
+      "name": "Manuel Gutierrez",
+      "mobile": "0411 111 111",
+      "email": "manuel@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": true,
+      "blocked": false
+    },
+    { 
+      "id": 2, 
+      "name": "Cordell Ramirez",
+      "mobile": "0411 111 112",
+      "email": "Cordell@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": false
+    },
+    { 
+      "id": 3, 
+      "name": "Esther Tanner",
+      "mobile": "0411 111 113",
+      "email": "Esther@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": false
+    },
+    { 
+      "id": 4, 
+      "name": "Ace Riggs",
+      "mobile": "0411 111 114",
+      "email": "Ace@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": false
+    },
+    { 
+      "id": 5, 
+      "name": "Skyla Brock",
+      "mobile": "0411 111 115",
+      "email": "Skyla@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": false
+    },
+    { 
+      "id": 6, 
+      "name": "Callum Mccarthy",
+      "mobile": "0411 111 116",
+      "email": "Callum@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": false
+    },
+    { 
+      "id": 7, 
+      "name": "Arturo Davenport",
+      "mobile": "0411 111 117",
+      "email": "Arturo@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": false
+    },
+    { 
+      "id": 8, 
+      "name": "Raquel Gates",
+      "mobile": "0411 111 118",
+      "email": "Raquel@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": false
+    },
+    { 
+      "id": 9, 
+      "name": "Keira Garner",
+      "mobile": "0411 111 119",
+      "email": "Keira@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": false
+    },
+    { 
+      "id": 10, 
+      "name": "Reilly Wilkins",
+      "mobile": "0411 111 120",
+      "email": "Reilly@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": false
+    },
+    { 
+      "id": 11, 
+      "name": "Desiree Forbes",
+      "mobile": "0411 111 121",
+      "email": "Desiree@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": false
+    },
+    { 
+      "id": 12, 
+      "name": "Payton Ingram",
+      "mobile": "0411 111 122",
+      "email": "Payton@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": false
+    },
+    { 
+      "id": 13, 
+      "name": "Jensen Fernandez",
+      "mobile": "0411 111 123",
+      "email": "Jensen@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": false
+    },
+    { 
+      "id": 14, 
+      "name": "Zoe Mahoney",
+      "mobile": "0411 111 124",
+      "email": "Zoe@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": false
+    },
+    { 
+      "id": 15, 
+      "name": "Branson Roberson",
+      "mobile": "0411 111 125",
+      "email": "Branson@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": false
+    },
+    { 
+      "id": 16, 
+      "name": "Raegan Stafford",
+      "mobile": "0411 111 126",
+      "email": "Raegan@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": true,
+      "blocked": false
+    },
+    { 
+      "id": 17, 
+      "name": "Jaylee Pierce",
+      "mobile": "0411 111 127",
+      "email": "Jaylee@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": true,
+      "blocked": false
+    },
+    { 
+      "id": 18, 
+      "name": "Makaila Mann",
+      "mobile": "0411 111 128",
+      "email": "Makaila@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": true
+    },
+    { 
+      "id": 19, 
+      "name": "Frederick Sweeney",
+      "mobile": "0411 111 129",
+      "email": "Frederick@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": false
+    },
+    { 
+      "id": 20, 
+      "name": "Haylee Sweeney",
+      "mobile": "0411 111 130",
+      "email": "Haylee@outlook.com",
+      "website": "",
+      "notes": "",
+      "favorite": false,
+      "blocked": false
+    },
+  ]
 }
