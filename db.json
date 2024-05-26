@@ -219,6 +219,17 @@
       "notes": "",
       "favorite": true,
       "blocked": false
+    },
+    { 
+      "id": 100, 
+      "name": "Albert Li",
+      "mobile": "0451 623 312",
+      "email": "albert.li1@outlook.com",
+      "picture": "",
+      "website": "https://albertli.xyz",
+      "notes": "Very basic contact application",
+      "favorite": false,
+      "blocked": false
     }
   ],
   "profile": {
