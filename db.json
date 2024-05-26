@@ -230,7 +230,7 @@
       "notes": "Very basic 'contact' application",
       "favorite": false,
       "blocked": false
-    },
+    }
   ],
   "profile": {
     "name": "albert"
